@@ -12,4 +12,4 @@
 
 Balance Sheet, Cash Flow, Net Income are attached as well as the closing price of last 5 years. 
 
-Interactive Dashboard: [https://public.tableau.com/app/profile/chris.d.jose/viz/BlueOwlOverview/BlueOwlOverview](url)
+Interactive Dashboard: [Blue Owl Capital Dashboard](https://public.tableau.com/app/profile/chris.d.jose/viz/BlueOwlOverview/BlueOwlOverview)
