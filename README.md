@@ -1,4 +1,4 @@
-# Blue Owl Capital Quantitative Analysis
+# Blue Owl Capital Case Study
 
 #### More Fear in Private Credit?
 
